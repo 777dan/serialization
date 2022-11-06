@@ -1,0 +1,7 @@
+table, tr, th, td {
+    border: 1px solid #000;
+    border-collapse: collapse;
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
